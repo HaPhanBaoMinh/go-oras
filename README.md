@@ -105,9 +105,5 @@ References
 
 Author
 
-Developed by miha for educational and prototyping purposes.
+Developed by **Miha** for educational and prototyping purposes.
 Feel free to fork and adapt!
-
-```
-
-```
