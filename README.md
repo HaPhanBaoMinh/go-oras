@@ -53,7 +53,9 @@ Then restart Docker.
 
 Push File
 
+```
 go run main.go --mode=push
+```
 
 This pushes ./template/hello.txt to:
 
@@ -61,7 +63,9 @@ localhost:8080/demo/template:latest
 
 Pull File
 
+```
 go run main.go --mode=pull
+```
 
 This pulls the artifact from Harbor and saves it to ./download/
 
@@ -103,3 +107,7 @@ Author
 
 Developed by miha for educational and prototyping purposes.
 Feel free to fork and adapt!
+
+```
+
+```
