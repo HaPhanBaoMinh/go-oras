@@ -20,6 +20,7 @@ This lets registries like Harbor manage files like Helm charts, SBOMs, policies,
 
 Project Structure
 
+```
 .
 ├── main.go Entry point with CLI flags for push/pull
 ├── oras/
@@ -29,6 +30,7 @@ Project Structure
 │ └── hello.txt Sample file to push
 ├── download/ Target folder for pulled artifacts
 └── go.mod Go module definition
+```
 
 ---
 
